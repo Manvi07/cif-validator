@@ -82,4 +82,3 @@ def index():
     Function: Renders the upload page
     """
     return flask.render_template('user_templates/validator.html')
-
